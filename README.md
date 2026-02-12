@@ -59,11 +59,6 @@ This project demonstrates my frontend development skills along with backend inte
 
 ## 📸 Screenshots
 
-(Add screenshots here)
-
-Example:
-
-
 
 ### 🏠 Homepage
 [Homepage](screenshots/full_webFront.png)
