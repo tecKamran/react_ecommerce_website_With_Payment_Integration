@@ -1,16 +1,114 @@
-# React + Vite
+# 🛒 React Ecommerce Website With Payment Integration
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive Ecommerce web application built using **React.js** with payment integration and PHP backend support.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Project Overview
 
-## React Compiler
+This is a fully functional ecommerce website that includes:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+* 🏠 Homepage with featured products
+* 🛍 Product listing & details page
+* 🛒 Add to cart functionality
+* 💳 Payment integration
+* 🔐 Backend support using PHP
+* 📱 Fully responsive design
 
-## Expanding the ESLint configuration
+This project demonstrates my frontend development skills along with backend integration knowledge.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠 Technologies Used
+
+### Frontend:
+
+* React.js
+* React Router
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+### Backend:
+
+* PHP
+
+---
+
+## ✨ Features
+
+* Dynamic product rendering
+* Cart management system
+* Secure payment request handling
+* Clean UI & modern layout
+* Mobile responsive design
+
+---
+
+## 📂 Project Structure
+
+```
+/src
+/components
+/pages
+/backend (PHP files)
+/public
+```
+
+---
+
+## 📸 Screenshots
+
+(Add screenshots here)
+
+Example:
+
+
+
+### 🏠 Homepage
+[Homepage](screenshots/full_webFront.png)
+
+## 🌐 Live Demo
+
+Coming Soon...
+
+---
+
+## ⚙ Installation & Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/tecKamran/react_ecommerce_website_With_Payment_Integration.git
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run the project:
+
+```
+npm start
+```
+
+---
+
+## 👨‍💻 Author
+
+Kamran Ali
+Full-Stak Web Developer | React Developer
+
+---
+
+## 📌 Future Improvements
+
+* Admin dashboard
+* User authentication
+* Database integration
+* Order history tracking
+* Full deployment with backend hosting
+
+
