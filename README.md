@@ -1,6 +1,6 @@
 # 🛒 React Ecommerce Website With Payment Integration
 
-A modern and responsive Ecommerce web application built using **React.js** with payment integration and PHP backend support.
+A modern and responsive ecommerce web application built with React.js, featuring product listings, cart functionality, and payment integration. This project demonstrates practical frontend development skills along with backend integration using PHP.
 
 ---
 
